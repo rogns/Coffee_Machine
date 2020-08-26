@@ -1,0 +1,2 @@
+# Coffee_Machine
+This system simulates pretty accurately how real-world electronic devices work. External components (like buttons on the coffee machine or tapping on the screen) generate events that pass into the single interface of the program. This is a code for coffee machines. It offers three consumption options: espresso, coffee with milk and cappuccino. Preparation formula and initial supplies defined by the developer. Making coffee, filling the machine with supplies, withdrawing money and showing the current state of the machine are features implemented here.
